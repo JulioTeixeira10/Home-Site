@@ -1,0 +1,21 @@
+{
+  "$schema":"https://json.schemastore.org/web-manifest-combined.json",
+  "name":"Cacique Cigars",
+  "short_name":"Cacique",
+  "description":"Tabacaria",
+  "categories":["shopping"],
+  "scope":"/",
+  "id":"/home.ehc?from=storepwa",
+  "start_url":"/home.ehc?from=storepwa",
+  "theme_color":"#7b2106",
+  "background_color":"#FFFFFF",
+  "orientation":"portrait-primary",
+  "display":"standalone",
+  "icons":[
+    {"src":"/lojas/00051071/images/logo5122.png?cccfc=1","type":"image/png","sizes":"512x512","purpose":"maskable"},
+    {"src":"/lojas/00051071/images/1684949037035.png?cccfc=1","type":"image/png","sizes":"192x192","purpose":"maskable"},
+    {"src":"/lojas/00051071/images/logo5122.png?cccfc=1","type":"image/png","sizes":"512x512","purpose":"any"},
+    {"src":"/lojas/00051071/images/1684949037035.png?cccfc=1","type":"image/png","sizes":"192x192","purpose":"any"},
+    {"src":"/lojas/00051071/images/pwa-icon.svg?cccfc=1","type":"image/svg+xml","sizes":"512x512","purpose":"any"}
+  ]
+}
